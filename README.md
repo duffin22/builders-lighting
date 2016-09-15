@@ -9,10 +9,12 @@
 </p>
 The app is aimed at simplifying the process of large-scale ordering for lighting contractors.  
 
-The screenshots above show the three activities of my app. These are the Home Screen (where users can view all of their recipes), the Add Item Screen (where users add new recipes) and the Edit Item Screen (where users can edit the rating, title, and ingredients for their recipe at a later date.
-
-To see a short video demonstration of my paper prototype, [click here.] (https://www.youtube.com/watch?v=YfShw1BgMKY)
-
+The screenshots above show the four activities of the app. 
+ - The first is a login activity which a user will see when the app is started. 
+ - The second is a navigation drawer which a user has an access to through out the application.
+ - Next is where user will see the list of rooms and lights for each rooms and the quantities.
+ - In last activity, the user will be able to look at the project information and edit them.
+ 
 ###Project Requirements
 #######
 For this project, I was tasked with creating my very first Android app that runs on a real Android device! The main goal of the project was to gather knowledge in using **Android Activities, Intents, Layouts & ListViews** over the course of a week. The more specifc requirements were as follows:
