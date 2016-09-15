@@ -17,14 +17,7 @@ The screenshots above show the four activities of the app.
  
 ###Project Requirements
 #######
-For this project, I was tasked with creating my very first Android app that runs on a real Android device! The main goal of the project was to gather knowledge in using **Android Activities, Intents, Layouts & ListViews** over the course of a week. The more specifc requirements were as follows:
-
-- Implement a paper prototype for your app.
-- Your app must contain ListViews and/or GridViews
-- Your app must implement at least two Activities
-- Data must be passed from one activity to another
-- Users can add/edit/delete items in each list
-- Display in both landscape and portrait orientations
+For this project, Our team was given an application currently used by Builders Lighting and it's users and asked to re-construct it to streamline the application and make it more user-friendly. The new application was to have all of the functions of the previous application while improving the usability. 
 
 ###Summary
 #######
