@@ -4,7 +4,7 @@
 <img style="padding: 100px" src="Screenshots/login.png" width="200">
 <img style="padding: 100px" src="Screenshots/nav-drawer.png" width="200">
 <img style="padding: 100px" src="Screenshots/rooms-expanded.png" width="200">
-<img style="padding: 100px" src="Screenshots/takeoff-details" width="200">
+<img style="padding: 100px" src="Screenshots/takeoff-details.png" width="200">
 
 </p>
 The app is aimed at simplifying the process of large-scale ordering for lighting contractors.  
