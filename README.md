@@ -1,13 +1,5 @@
 #Builders Lighting
 
-##Contributors
-
-[Matthew Duffin] (https://duffin22.github.io/) - Android Developer
-
-[Severin Rudie] (https://www.linkedin.com/in/severin-rudie) - Android Developer
-
-[Michael M Kang] (michaelmkang.com) - Android Developer
-
 ##Screenshots
 
 <p align="left">
@@ -26,3 +18,11 @@ The screenshots above show four different secnarios within the application.
  - The second is the homepage, where the user can view all of their active projects.
  - The third shows the details tab of the individual project screen.
  - The fourth shows the navigation drawer, which is viewable throughout the application to allow users to easily navigate.
+
+##Contributors
+
+[Matthew Duffin] (https://duffin22.github.io/) - Android Developer
+
+[Severin Rudie] (https://www.linkedin.com/in/severin-rudie) - Android Developer
+
+[Michael M Kang] (michaelmkang.com) - Android Developer
