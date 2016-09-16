@@ -1,5 +1,12 @@
 #Builders Lighting
 
+##Contributors
+
+[Matthew Duffin] (https://duffin22.github.io/) - Android Developer
+
+[Severin Rudie] (https://www.linkedin.com/in/severin-rudie) - Android Developer
+
+[Michael M Kang] (michaelmkang.com) - Android Developer
 <p align="left">
 <img style="padding: 100px" src="Screenshots/login.png" width="200">
 <img style="padding: 100px" src="Screenshots/nav-drawer.png" width="200">
